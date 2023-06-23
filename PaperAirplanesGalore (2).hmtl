@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Paper Airplanes Galore!</title>
+</head>
+<body>
+  <h1>Welcome to the Paper Airplanes Galore!</h1>
+  
+  <h2>Paper Airplanes</h2>
+  <p>Learn how to make different types of paper airplanes:</p>
+  <ul>
+    <li><a href="foldable.html">Foldable Paper Airplanes</a></li>
+    <li><a href="origami.html">Origami Paper Airplanes</a></li>
+    <li><a href="cutouts.html">Cutout Paper Airplanes</a></li>
+  </ul>
+  
+  <h2>Foldable Paper Airplanes</h2>
+  <p>Instructions on how to fold foldable paper airplanes:</p>
+  <ul>
+    <li>Instructions for Foldable Paper Airplane 1</li>
+    <li>Instructions for Foldable Paper Airplane 2</li>
+    <li>Instructions for Foldable Paper Airplane 3</li>
+  </ul>
+  
+  <h2>Origami Paper Airplanes</h2>
+  <p>Instructions on how to create origami paper airplanes:</p>
+  <ul>
+    <li>Instructions for Origami Paper Airplane 1</li>
+    <li>Instructions for Origami Paper Airplane 2</li>
+    <li>Instructions for Origami Paper Airplane 3</li>
+  </ul>
+  
+  <h2>Cutout Paper Airplanes</h2>
+  <p>Instructions on how to make cutout paper airplanes:</p>
+  <ul>
+    <li>Instructions for Cutout Paper Airplane 1</li>
+    <li>Instructions for Cutout Paper Airplane 2</li>
+    <li>Instructions for Cutout Paper Airplane 3</li>
+  </ul>
+  
+  <h2>Other Paper Airplane Resources</h2>
+  <p>Explore more paper airplane-related content:</p>
+  <ul>
+    <li><a href="https://www.example.com">Website 1</a></li>
+    <li><a href="https://www.example.com">Website 2</a></li>
+    <li><a href="https://www.example.com">Website 3</a></li>
+  </ul>
+</body>
+</html>
